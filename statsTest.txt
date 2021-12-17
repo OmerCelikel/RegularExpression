@@ -1,0 +1,63 @@
+Email is valid
+
+Hello Ms. Demir
+
+First sentence. Second sentence.
+
+s****d
+
+"the" 2 times found in that paragraph
+
+Detected variants: 
+z!ra@tb4nk4s!
+ziraatbankasi
+
+
+Phone number/s that has been found : 
+Phone number 1: +90 532 408 99 66
+
+
+Line by Line cropped version : 
+line 1: Lorem ipsum dolor sit 
+line 2: amet, consectetur 
+line 3: adipiscing elit. 
+line 4: Curabitur posuere nunc eu 
+line 5: lacinia lacinia. Fusce 
+line 6: accumsan risus sit amet 
+line 7: dolor pretium aliquam. 
+line 8: Aliquam egestas lectus eu 
+line 9: urna tempor elementum. 
+line 10: Vivamus vel ligula massa. 
+line 11: Lorem ipsum dolor sit 
+line 12: amet, consectetur 
+line 13: adipiscing elit. Cras nec 
+line 14: felis turpis. Ut vitae 
+line 15: dictum velit, gravida 
+line 16: efficitur ipsum. Nulla 
+line 17: cursus, magna at 
+line 18: tristique pulvinar, erat 
+line 19: velit egestas velit, eu 
+line 20: venenatis felis justo 
+line 21: sodales ligula. Morbi 
+line 22: ultrices, lectus quis 
+line 23: mollis sodales, nunc sem 
+line 24: fringilla mauris, vel 
+line 25: euismod lorem purus sit 
+line 26: amet odio. Nunc rutrum 
+line 27: dictum mattis. Mauris eu 
+line 28: neque volutpat, varius 
+line 29: nisl nec, congue nibh. 
+line 30: Morbi id eleifend massa, 
+line 31: eu rutrum lacus.
+
+
+TCKN's : 
+TCKN 1: 22345678902
+
+
+selim
+
+Kelime büyük ünlü uyumu kuralına uymamaktadır!
+
+Your word is not in regular form
+
